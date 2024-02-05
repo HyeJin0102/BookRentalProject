@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BookRentalProject/tbl_admin_member 테이블 생성 쿼리.txt&apos; to &apos;tbl_admin_member 테이블 생성 쿼리.sql&apos;" description="Rename resource &apos;tbl_admin_member 테이블 생성 쿼리.txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="tbl_admin_member 테이블 생성 쿼리.txt" name="tbl_admin_member 테이블 생성 쿼리.sql" stamp="1706889204242" updateReferences="true"/>
+</session>

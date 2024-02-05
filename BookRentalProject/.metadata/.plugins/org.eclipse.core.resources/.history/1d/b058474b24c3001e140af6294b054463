@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<beans xmlns="http://www.springframework.org/schema/beans" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:jdbc="http://www.springframework.org/schema/jdbc" xmlns:context="http://www.springframework.org/schema/context" xmlns:mybatis-spring="http://mybatis.org/schema/mybatis-spring" xmlns:tx="http://www.springframework.org/schema/tx" xsi:schemaLocation="http://www.springframework.org/schema/jdbc http://www.springframework.org/schema/jdbc/spring-jdbc-4.3.xsd http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-4.3.xsd http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-4.3.xsd">
+	<!--  <context:property-placeholder location="/WEB-INF/spring/property/real.info.properties" />  -->
+		<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+   		<property name="javax.persistence.jdbc.driver" value="com.mysql.cj.jdbc.Driver"/>
+    		<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/testdb?serverTimezone=UTC"/>
+    		<property name="javax.persistence.jdbc.user" value="root"/>
+    		<property name="javax.persistence.jdbc.password" value="1234"/>
+    		<!-- 특정 DBMS만의 방언 설정 -->
+    		<property name="hibernate.dialect" value="org.hibernate.dialect.MySQL8Dialect" />
+    		
+    		<!-- 옵션(선택) 속성 -->
+    		
+    		<!-- 콘솔에 실제 수행되는 SQL 쿼리도 조회 -->
+    		<property name="hibernate.show_sql" value="true"/> 
+    		
+    		<!-- SQL의 출력 형태(포맷) 정렬 -->
+    		<property name="hibernate.format_sql" value="true" />
+    		
+    		<!-- 애플리케이션 실행시 DB 테이블을 자동으로 생성할 것인지에 대한 설정.
+    		 CREATE 옵션 - 애플리케이션을 실행할 때마다 
+    		              기존에 테이블이 존재할 경우 해당 테이블을 제거(DROP), 테이블을 새로 생성(CREATE) 
+    		              (DROP + CREATE 쿼리가 수행됨)
+    		 UPDATE 옵션 - DB테이블과 엔티티 맵핑 정보를 비교, 변경된 사항을 수정
+    		 VALIDATE 옵션 - JPA가 테이블을 직접 생성하지 않고, DDL커리와 맵핑이 잘 되었는지 검증하는 옵션
+    		                유효하면 프로그램 실행. 유효하지 않을 경우 오류 출력
+    		 NONE 옵션 - 아무것도 수행하지 않는 옵션     
+    		     -->
+    		<property name="hibernate.hbm2ddl.auto" value="none" />
+		</bean>
+
+		<!--  JdbcTemplate 객체  -->
+		<bean id="jdbcTemplate" class="org.springframework.jdbc.core.JdbcTemplate">
+			<property name="dataSource" ref="dataSource"/>
+		</bean>
+
+		<!--  TransactionManager 객체  -->
+		<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+			<property name="dataSource" ref="dataSource"/>
+		</bean>
+	</beans>
