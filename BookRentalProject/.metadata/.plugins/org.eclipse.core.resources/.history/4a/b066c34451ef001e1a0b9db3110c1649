@@ -1,0 +1,5 @@
+package com.office.library.config;
+
+public class JdbcTemplateConfig {
+
+}

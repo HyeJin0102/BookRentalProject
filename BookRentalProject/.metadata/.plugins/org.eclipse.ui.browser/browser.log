@@ -1,0 +1,203 @@
+
+3월 18, 2024 21:58:15.19 NEW SESSION
+3월 18, 2024 21:58:15.20 [8820:15316:0318/215815.009:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 21:58:15.21 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 21:58:15.21 ERROR: Failed parsing Certificate
+3월 18, 2024 21:58:15.22 
+3월 18, 2024 21:58:21.830 [8820:15316:0318/215821.829:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 21:58:21.830 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 21:58:21.832 ERROR: Failed parsing Certificate
+3월 18, 2024 21:58:21.832 
+3월 18, 2024 21:58:21.833 [8820:1560:0318/215821.829:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 21:58:21.839 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 21:58:21.839 ERROR: Failed parsing Certificate
+3월 18, 2024 21:58:21.840 
+3월 18, 2024 21:58:24.465 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 18, 2024 22:03:53.172 [8820:1560:0318/220353.170:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:03:53.174 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:03:53.177 ERROR: Failed parsing Certificate
+3월 18, 2024 22:03:53.179 
+3월 18, 2024 22:06:06.73 [8820:1560:0318/220606.072:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:06:06.73 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:06:06.74 ERROR: Failed parsing Certificate
+3월 18, 2024 22:06:06.75 
+3월 18, 2024 22:09:37.605 [8820:1276:0318/220937.604:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+3월 18, 2024 22:10:21.581 [8820:1276:0318/221021.580:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+3월 18, 2024 22:10:46.953 [8820:1560:0318/221046.951:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:10:46.955 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:10:46.958 ERROR: Failed parsing Certificate
+3월 18, 2024 22:10:46.960 
+3월 18, 2024 22:16:45.73 [8820:1276:0318/221645.073:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+3월 18, 2024 22:22:43.850 [8820:15316:0318/222243.850:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:22:43.851 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:22:43.852 ERROR: Failed parsing Certificate
+3월 18, 2024 22:22:43.853 
+3월 18, 2024 22:22:43.891 [8820:15316:0318/222243.891:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:22:43.892 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:22:43.893 ERROR: Failed parsing Certificate
+3월 18, 2024 22:22:43.894 
+3월 18, 2024 22:22:44.07 [8820:15316:0318/222244.006:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:22:44.07 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:22:44.08 ERROR: Failed parsing Certificate
+3월 18, 2024 22:22:44.09 
+3월 18, 2024 22:23:39.968 [8820:15316:0318/222339.967:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:23:39.968 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:23:39.969 ERROR: Failed parsing Certificate
+3월 18, 2024 22:23:39.970 
+3월 18, 2024 22:27:07.756 [8820:1560:0318/222707.755:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:27:07.757 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:27:07.758 ERROR: Failed parsing Certificate
+3월 18, 2024 22:27:07.759 
+3월 18, 2024 22:41:30.984 [8820:1560:0318/224130.981:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:41:30.985 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:41:30.986 ERROR: Failed parsing Certificate
+3월 18, 2024 22:41:30.986 
+3월 18, 2024 22:58:13.91 [8820:1560:0318/225813.090:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 22:58:13.92 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 22:58:13.92 ERROR: Failed parsing Certificate
+3월 18, 2024 22:58:13.93 
+3월 18, 2024 23:11:31.27 [8820:1560:0318/231131.027:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 23:11:31.28 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 23:11:31.28 ERROR: Failed parsing Certificate
+3월 18, 2024 23:11:31.29 
+3월 18, 2024 23:12:01.85 [8820:1560:0318/231201.084:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 23:12:01.87 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 23:12:01.89 ERROR: Failed parsing Certificate
+3월 18, 2024 23:12:01.91 
+3월 18, 2024 23:19:39.112 [8820:1560:0318/231939.111:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 18, 2024 23:19:39.112 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 18, 2024 23:19:39.113 ERROR: Failed parsing Certificate
+3월 18, 2024 23:19:39.114 
+
+3월 24, 2024 01:25:24.824 NEW SESSION
+3월 24, 2024 01:25:24.824 [11712:9756:0324/012524.821:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 01:25:24.825 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 01:25:24.826 ERROR: Failed parsing Certificate
+3월 24, 2024 01:25:24.826 
+3월 24, 2024 01:25:24.852 [11712:9756:0324/012524.851:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 01:25:24.852 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 01:25:24.853 ERROR: Failed parsing Certificate
+3월 24, 2024 01:25:24.853 
+3월 24, 2024 01:25:27.737 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 24, 2024 01:25:30.944 [11712:9756:0324/012530.944:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 01:25:30.945 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 01:25:30.946 ERROR: Failed parsing Certificate
+3월 24, 2024 01:25:30.947 
+3월 24, 2024 01:28:54.199 [11712:9756:0324/012854.198:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 01:28:54.199 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 01:28:54.200 ERROR: Failed parsing Certificate
+3월 24, 2024 01:28:54.201 
+3월 24, 2024 01:55:54.820 [11712:9756:0324/015554.819:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 01:55:54.821 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 01:55:54.822 ERROR: Failed parsing Certificate
+3월 24, 2024 01:55:54.823 
+3월 24, 2024 02:05:24.774 [11712:9756:0324/020524.772:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 02:05:24.776 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 02:05:24.778 ERROR: Failed parsing Certificate
+3월 24, 2024 02:05:24.780 
+3월 24, 2024 02:12:42.668 [11712:5696:0324/021242.667:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+3월 24, 2024 09:55:08.359 [11712:5696:0324/095508.358:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+3월 24, 2024 09:55:08.608 [11712:16624:0324/095508.607:ERROR:get_updates_processor.cc(263)] PostClientToServerMessage() failed during GetUpdates with error Network error (ERR_NAME_NOT_RESOLVED)
+3월 24, 2024 09:55:10.146 [11712:6456:0324/095510.145:ERROR:device_event_log_impl.cc(192)] [09:55:10.145] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+3월 24, 2024 09:55:39.412 [11712:9756:0324/095539.411:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 09:55:39.412 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 09:55:39.413 ERROR: Failed parsing Certificate
+3월 24, 2024 09:55:39.414 
+3월 24, 2024 09:55:39.415 [11712:4720:0324/095539.411:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 09:55:39.416 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 09:55:39.417 ERROR: Failed parsing Certificate
+3월 24, 2024 09:55:39.417 
+3월 24, 2024 09:55:39.809 [11712:5696:0324/095539.808:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+3월 24, 2024 09:59:41.884 [11712:5696:0324/095941.884:ERROR:connection_factory_impl.cc(478)] ConnectionHandler failed with net error: -2
+3월 24, 2024 10:39:29.62 [11712:5696:0324/103929.061:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+3월 24, 2024 10:39:31.92 [11712:5696:0324/103931.091:ERROR:connection_factory_impl.cc(434)] Failed to connect to MCS endpoint with error -105
+3월 24, 2024 10:39:54.107 [11712:6456:0324/103954.106:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+3월 24, 2024 10:39:54.935 [11712:9756:0324/103954.934:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 10:39:54.936 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 10:39:54.937 ERROR: Failed parsing Certificate
+3월 24, 2024 10:39:54.938 
+3월 24, 2024 10:40:00.196 [11712:9756:0324/104000.195:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 10:40:00.197 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 10:40:00.197 ERROR: Failed parsing Certificate
+3월 24, 2024 10:40:00.198 
+3월 24, 2024 10:40:20.624 [11712:9756:0324/104020.623:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 10:40:20.624 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 10:40:20.625 ERROR: Failed parsing Certificate
+3월 24, 2024 10:40:20.626 
+3월 24, 2024 10:44:23.241 [11712:9756:0324/104423.240:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 10:44:23.242 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 10:44:23.243 ERROR: Failed parsing Certificate
+3월 24, 2024 10:44:23.244 
+3월 24, 2024 11:15:24.798 [11712:9756:0324/111524.797:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 11:15:24.799 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 11:15:24.800 ERROR: Failed parsing Certificate
+3월 24, 2024 11:15:24.801 
+3월 24, 2024 11:25:55.115 [11712:9756:0324/112555.114:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 11:25:55.116 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 11:25:55.116 ERROR: Failed parsing Certificate
+3월 24, 2024 11:25:55.117 
+3월 24, 2024 11:35:24.768 [11712:9756:0324/113524.767:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 11:35:24.769 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 11:35:24.770 ERROR: Failed parsing Certificate
+3월 24, 2024 11:35:24.771 
+3월 24, 2024 12:05:24.862 [11712:9756:0324/120524.861:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 12:05:24.863 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 12:05:24.863 ERROR: Failed parsing Certificate
+3월 24, 2024 12:05:24.864 
+3월 24, 2024 12:15:25.703 [11712:9756:0324/121525.703:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 12:15:25.704 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 12:15:25.705 ERROR: Failed parsing Certificate
+3월 24, 2024 12:15:25.706 
+3월 24, 2024 12:25:54.742 [11712:9756:0324/122554.741:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 12:25:54.743 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 12:25:54.744 ERROR: Failed parsing Certificate
+3월 24, 2024 12:25:54.746 
+3월 24, 2024 12:55:24.754 [11712:9756:0324/125524.753:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 12:55:24.755 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 12:55:24.755 ERROR: Failed parsing Certificate
+3월 24, 2024 12:55:24.756 
+3월 24, 2024 12:55:54.763 [11712:9756:0324/125554.763:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 12:55:54.764 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 12:55:54.765 ERROR: Failed parsing Certificate
+3월 24, 2024 12:55:54.765 
+3월 24, 2024 13:11:56.879 [11712:9756:0324/131156.878:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 24, 2024 13:11:56.881 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 24, 2024 13:11:56.883 ERROR: Failed parsing Certificate
+3월 24, 2024 13:11:56.886 
+3월 24, 2024 13:11:58.763 [11712:6456:0324/131158.762:ERROR:chrome_web_ui_controller_factory.cc(578)] Requested load of chrome://newtab/ for incorrect profile type.
+
+3월 29, 2024 14:21:36.813 NEW SESSION
+3월 29, 2024 14:21:36.814 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+3월 29, 2024 14:21:37.128 [7928:2304:0329/142137.127:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 29, 2024 14:21:37.128 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 29, 2024 14:21:37.129 ERROR: Failed parsing Certificate
+3월 29, 2024 14:21:37.130 
+3월 29, 2024 14:21:37.130 [7928:15456:0329/142137.127:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 29, 2024 14:21:37.131 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 29, 2024 14:21:37.132 ERROR: Failed parsing Certificate
+3월 29, 2024 14:21:37.133 
+3월 29, 2024 14:21:40.937 [7928:8328:0329/142140.934:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 29, 2024 14:21:40.940 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 29, 2024 14:21:40.941 ERROR: Failed parsing Certificate
+3월 29, 2024 14:21:40.943 
+3월 29, 2024 14:21:41.263 [7928:8328:0329/142141.262:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 29, 2024 14:21:41.264 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 29, 2024 14:21:41.264 ERROR: Failed parsing Certificate
+3월 29, 2024 14:21:41.265 
+3월 29, 2024 14:31:37.275 [7928:8328:0329/143137.272:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 29, 2024 14:31:37.277 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 29, 2024 14:31:37.279 ERROR: Failed parsing Certificate
+3월 29, 2024 14:31:37.281 
+3월 29, 2024 14:52:07.85 [7928:8328:0329/145207.084:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 29, 2024 14:52:07.86 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 29, 2024 14:52:07.87 ERROR: Failed parsing Certificate
+3월 29, 2024 14:52:07.88 
+3월 29, 2024 15:11:37.322 [7928:8328:0329/151137.322:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 29, 2024 15:11:37.323 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 29, 2024 15:11:37.326 ERROR: Failed parsing Certificate
+3월 29, 2024 15:11:37.327 
+3월 29, 2024 15:21:38.91 [7928:8328:0329/152138.090:ERROR:cert_issuer_source_aia.cc(35)] Error parsing cert retrieved from AIA (as DER):
+3월 29, 2024 15:21:38.93 ERROR: Couldn't read tbsCertificate as SEQUENCE
+3월 29, 2024 15:21:38.95 ERROR: Failed parsing Certificate
+3월 29, 2024 15:21:38.97 
+3월 29, 2024 15:33:01.232 [7928:18492:0329/153301.231:ERROR:chrome_web_ui_controller_factory.cc(549)] Requested load of chrome://newtab/ for incorrect profile type.

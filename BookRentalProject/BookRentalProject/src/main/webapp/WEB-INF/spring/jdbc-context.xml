@@ -4,11 +4,10 @@
 	<!--  <context:property-placeholder location="/WEB-INF/spring/property/real.info.properties" />  -->
 	
 		<bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
-   		<property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
-    		<property name="url" value="jdbc:mysql://localhost:3306/testdb?serverTimezone=UTC"/>
-    		<property name="username" value="root"/>
-    		<property name="password" value="1234"/>
-    		
+			<property name="driverClassName" value="#{infoProperty['db.driver']}" />
+			<property name="url" value="#{infoProperty['db.url']}" />
+			<property name="username" value="#{infoProperty['db.username']}" />
+			<property name="password" value="#{infoProperty['db.password']}" />
 		</bean>
 
 		<!--  JdbcTemplate 객체  -->

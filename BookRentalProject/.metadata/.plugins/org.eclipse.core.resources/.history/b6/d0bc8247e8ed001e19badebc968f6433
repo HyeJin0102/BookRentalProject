@@ -1,0 +1,33 @@
+package com.office.library.book;
+
+public class RentalBookVo {
+	//RentalBookVo는 tbl_rental_book 테이블의 데이터를 저장할 수 있는 클래스로 대출 정보 뿐만 아니라 도서 정보, 회원 정보가 조인(join)될 수 있기에 모든 맴버 필드 선언함
+
+	int rb_no;
+	String rb_start_date;
+	String rb_end_date;
+	String rb_reg_date;
+	String rb_mod_date;
+	
+	int b_no;
+	String b_thumbnail;
+	String b_name;
+	String b_author;	
+	String b_publisher;
+	String b_publish_year;
+	String b_isbn;
+	String b_call_number;
+	int b_rantal_able;
+	String b_reg_date;
+	String b_mod_date;
+	
+	int u_m_no;
+	String u_m_id;
+	String u_m_pw;
+	String u_m_name;
+	String u_m_gender;
+	String u_m_mail;
+	String u_m_phone;
+	String u_m_reg_date;
+	String u_m_mod_date;
+}

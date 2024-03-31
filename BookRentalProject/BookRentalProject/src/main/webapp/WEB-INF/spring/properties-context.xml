@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:util="http://www.springframework.org/schema/util"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+		http://www.springframework.org/schema/util http://www.springframework.org/schema/util/spring-util-4.3.xsd">
+		
+	<!-- 프로그램 실행시 개발용 db와 배포용db를 구분하기 위해 dev.info.properties를 이용하고 이름(아이디)을 infoProperty로 설정 -->
+	<util:properties id="infoProperty" location="/WEB-INF/spring/properties/dev.info.properties"/>
+	<!-- CommonsMultipartResolver 빈을 생성하기 위한 코드 -->
+	<util:properties id="commInfoProperty" location="/WEB-INF/spring/properties/comm.info.properties"/>
+	
+</beans>

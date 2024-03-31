@@ -1,0 +1,7 @@
+package com.office.library.user.member;
+
+import org.springframework.web.servlet.HandlerInterceptor;
+
+public interface UserMemberLoginInterceptor extends HandlerInterceptor {
+
+}

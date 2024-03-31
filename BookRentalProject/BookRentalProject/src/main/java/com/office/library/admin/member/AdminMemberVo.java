@@ -86,6 +86,4 @@ public class AdminMemberVo {
 	public void setA_m_mod_date(String a_m_mod_date) {
 		this.a_m_mod_date = a_m_mod_date;
 	}
-	
-	
 }

@@ -15,7 +15,7 @@
 		AdminMemberVo loginedAdminMemberVo = (AdminMemberVo) session.getAttribute("loginedAdminMemberVo");
 		if (loginedAdminMemberVo != null) {
 		%>
-		
+		<!-- 관리자 로그인 후 화면 -->
 		<div class="menu">
 			<ul>
 				<li><a href="<c:url value='/admin/member/logoutConfirm' />">로그아웃</a></li>
@@ -34,10 +34,12 @@
 		<%
 		} else {
 		%>
+		<!-- 관리자 로그인 전 화면 -->
 		<div class="menu">
 			<ul>
 				<li><a href="<c:url value='/admin/member/loginForm' />">로그인</a></li>
 				<li><a href="<c:url value='/admin/member/createAccountForm' />">회원가입</a></li>
+				<!-- '회원가입' 누르면 해당 서버에 /admin/member/createAccountForm 요청 발생함 -->
 			</ul>
 		</div>
 		<%

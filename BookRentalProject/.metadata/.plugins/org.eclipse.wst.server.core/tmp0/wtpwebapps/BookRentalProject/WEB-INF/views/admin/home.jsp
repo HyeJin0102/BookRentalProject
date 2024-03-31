@@ -16,7 +16,7 @@
 	
 	<jsp:include page="../include/header.jsp" />
 	
-	<jsp:include page="./include/nav.jsp" />
+	<jsp:include page="./include/nav.jsp" /> <!-- nav.jsp는 관리자 화면의 전체적인 메뉴 -->
 	
 	<section>
 		

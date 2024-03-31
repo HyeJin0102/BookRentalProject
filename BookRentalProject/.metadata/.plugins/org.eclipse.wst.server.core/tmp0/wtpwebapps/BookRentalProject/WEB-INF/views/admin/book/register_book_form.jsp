@@ -33,7 +33,7 @@
 			<div class="register_book_form">
 			
 				<form action="<c:url value='/book/admin/registerBookConfirm' />" name="register_book_form" method="post" enctype="multipart/form-data">
-					
+				<!-- enctype="multipart/form-data는 이미지파일(도서 표지)을 업로드(서버에 전송) 하기 위한 설정 -->
 					<input type="text" name="b_name" placeholder="INPUT BOOK NAME."> <br>
 					<input type="text" name="b_author" placeholder="INPUT BOOK AUTHOR."> <br>
 					<input type="text" name="b_publisher" placeholder="INPUT BOOK PUBLISHER."> <br>
@@ -45,7 +45,7 @@
 						<option value="0">UNABLE.</option>
 						<option value="1">ABLE.</option>
 					</select><br>
-					<input type="file" name="file"><br>
+					<input type="file" name="file"><br> <!-- 도서 이미지 파일을 '내 컴퓨터'에서 선택하기 위한 input -->
 					<input type="button" value="register book" onclick="registerBookForm();"> 
 					<input type="reset"	value="reset">
 					
